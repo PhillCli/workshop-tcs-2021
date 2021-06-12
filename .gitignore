@@ -1,0 +1,9 @@
+conda
+.vscode
+deps
+
+# psi4 stuff
+timer.dat
+output.dat
+*.clean
+
