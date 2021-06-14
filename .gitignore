@@ -2,6 +2,9 @@ conda
 .vscode
 deps
 
+questions
+*.swp
+
 # psi4 stuff
 timer.dat
 output.dat
